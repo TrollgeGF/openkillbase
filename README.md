@@ -21,9 +21,10 @@ A custom and open source version of ULTRAKILL Prelude 1.03 dev build. This versi
 # F.A.Q
 
 1. Why not the latest version?
- Newer versions cause more compiler errors for some reason, and hakita would probably not like it.
 
-#Known issues
+Newer versions cause more compiler errors for some reason, and hakita would probably not like it.
+
+# Known issues
 1. Shaders not working (scripts being silly)
 2. texture not having the right materials
 3. i dunno

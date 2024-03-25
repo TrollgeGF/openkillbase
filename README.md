@@ -14,7 +14,7 @@ A custom and open source version of ULTRAKILL Prelude 1.03 dev build. This versi
 # Installation
 1. Press the **BIG GREEN BUTTON** that says CODE and press it. Press the "download ZIP" button.
 2. Download the Unity Hub.
-3. Download unity version [unityhub://2018.3.6f1]
+3. Download unity version [2018.3.6f1](unityhub://2018.3.6f1)
 4. press the Add dropdown and press "add from disk"
 5. Enjoy!
 
